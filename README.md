@@ -1,1 +1,1 @@
-# template for react applications with react-router and redux
+# admin panel for mountain dog
